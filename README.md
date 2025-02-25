@@ -3,5 +3,5 @@
 
 - Фреймворк LangMem для работы с памятью агента: [код](https://github.com/trashchenkov/LLM-First-Touch/blob/main/LangMem.ipynb) / [пост](https://t.me/gigatrash/110)
 - Локальный запуск GigaChat Lite: [код](https://github.com/trashchenkov/LLM-First-Touch/blob/main/LangMem.ipynb) / [пост](https://t.me/gigatrash/108)
-- Модель Mistral Small 3: [код](https://github.com/trashchenkov/LLM-First-Touch/blob/main/LangMem.ipynb) / [пост](https://t.me/gigatrash/104)
+- Модель Mistral Small 3: [код](https://github.com/trashchenkov/LLM-First-Touch/blob/main/mistral_small_2501.ipynb) / [пост](https://t.me/gigatrash/104)
 
