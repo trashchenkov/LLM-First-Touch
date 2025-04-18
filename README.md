@@ -6,4 +6,5 @@
 - Локальный запуск GigaChat: [код](https://github.com/trashchenkov/LLM-First-Touch/blob/main/GigaChat_20B_A3B_instruct.ipynb) / [пост](https://t.me/gigatrash/108)
 - Модель Mistral Small 3: [код](https://github.com/trashchenkov/LLM-First-Touch/blob/main/mistral_small_2501.ipynb) / [пост](https://t.me/gigatrash/104)
 - Модели GigaChat 2: [код](https://github.com/trashchenkov/LLM-First-Touch/blob/main/gigachat2.ipynb) / [пост](https://t.me/gigatrash/117)
+- Фреймворк Agent Development Kit от Google: [код](https://github.com/trashchenkov/adk_pipeline) / [пост](https://t.me/gigatrash/127)
 
